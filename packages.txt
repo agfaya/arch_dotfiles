@@ -4,6 +4,7 @@ ttf-ubuntu-font-family
 ttf-cascadia-code
 ttf-font-awesome
 otf-font-awesome
+ttf-fir-code
 
 #BSPWM AND STUFF
 
