@@ -10,6 +10,7 @@ I use arch btw.
 * __os__: Arch
 * __Shell__: Bash
 * __Editor__: vim 
+* __Terminal__: Termite
 * __File Manager__: Thunar
 * __Launcher__: Rofi
 * __Color Scheme__: custom
