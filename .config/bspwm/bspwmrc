@@ -1,0 +1,38 @@
+#! /bin/sh
+
+sxhkd &
+killall feh
+feh --bg-scale ~/wall/two.jpg
+killall dunst
+dunst &
+killall nm-applet
+nm-applet &
+killall compton
+compton -b &
+~/.config/polybar/launch.sh
+
+#background:  #1d1f21
+#highlight:   #fb3d66
+
+bspc monitor -d I II III IV V VI VII
+
+bspc config border_width        	0
+bspc config window_gap          	13
+bspc config border_radius 		15
+
+bspc config split_ratio          	0.5
+bspc config borderless_monocle   	false
+bspc config gapless_monocle      	false
+bspc config focus_follows_pointer 	false
+bspc config single_monocle	 	true
+bspc config initial_polarity 		second_child
+
+bspc config focused_border_color 	"#e69ee4"
+bspc config normal_border_color 	"#1d1f21"
+
+bspc config pointer_modifier 		shift
+bspc config pointer_action1 		move
+bspc config pointer_action2 		resize_corner
+
+bspc rule -a Pavucontrol state=floating 
+
