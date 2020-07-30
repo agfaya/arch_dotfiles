@@ -3,8 +3,11 @@
 ![Home](https://github.com/a-akshay79/arch_dotfiles/blob/master/screens/home.png)
 
 ## System Info
-* __os__: Arch
+* __OS__: Arch
+* __WM__: Bspwm
+* __Bar__: Polybar
 * __Shell__: Bash
+* __Notification__: Dunst
 * __Editor__: vim 
 * __Terminal__: Termite
 * __File Manager__: Thunar
