@@ -2,9 +2,6 @@
 I use arch btw.
 ## Preview 
 ![Home](https://github.com/a-akshay79/arch_dotfiles/blob/master/screens/home.png)
-![rofi](https://github.com/a-akshay79/arch_dotfiles/blob/master/screens/roif.png)
-![else](https://github.com/a-akshay79/arch_dotfiles/blob/master/screens/else.png)
-![prog](https://github.com/a-akshay79/arch_dotfiles/blob/master/screens/prog.png)
 
 ## System Info
 * __os__: Arch
