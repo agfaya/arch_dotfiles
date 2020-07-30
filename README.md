@@ -1,5 +1,4 @@
 # arch_dotfiles
-I use arch btw.
 ## Preview 
 ![Home](https://github.com/a-akshay79/arch_dotfiles/blob/master/screens/home.png)
 
