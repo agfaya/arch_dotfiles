@@ -17,7 +17,8 @@
 ;==========================================================
 
 [colors]
-background = ${xrdb:background}
+;background = ${xrdb:background}
+background = #00000000
 ;background = #222
 background-alt = #444
 foreground = ${xrdb:foreground}
@@ -31,6 +32,7 @@ alert = #ffff00
 monitor = eDP1
 width = 100%
 height = 34
+;bottom = true
 ;offset-x = 1%
 ;offset-y = 1%
 ;radius = 15.5
@@ -54,7 +56,7 @@ padding-right = 2
 module-margin-left = 1
 module-margin-right = 1
 
-font-0 = "Cascadia Code:pixelsize=12;2"
+font-0 = "Fira Code:pixelsize=12;2"
 font-1 = "Font Awesome 5 Free:style=Regular:pixelsize=14;3"
 font-2 = "Font Awesome 5 Free:style=Solid:pixelsize=14;3"
 font-3 = "Font Awesome 5 Brands:pixelsize=14;3"

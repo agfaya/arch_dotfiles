@@ -18,3 +18,4 @@ alias pconfig='vim ~/.config/polybar/config && ~/.config/polybar/launch.sh'
 alias bashconfig='vim ~/.bashrc'
 alias nofetch='neofetch --disable de cpu gpu theme'
 
+export _JAVA_AWT_WM_NONREPARENTING=1
