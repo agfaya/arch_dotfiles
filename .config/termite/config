@@ -6,7 +6,7 @@
 #cell_width_scale = 1.0
 #clickable_url = true
 #dynamic_title = true
-font = Fira Code 12
+font = Inconsolata Regular 16
 #fullscreen = true
 #icon_name = terminal
 #mouse_autohide = false
@@ -47,7 +47,7 @@ foreground      = #f4f2f0
 foreground_bold = #f4f2f0
 cursor          = #f4f2f0
 #background      = #151515
-background      = rgba(21,21,21,0.9)
+background      = rgba(10,10,10,0.9)
 
 # black
 color0  = #3d335c

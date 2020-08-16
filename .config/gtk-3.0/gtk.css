@@ -2,3 +2,12 @@ teTerminal, vte-terminal {
     padding: 20px;
  }
 
+#pulseaudio-button * {-gtk-icon-transform: scale(.55);}
+#xfce4-power-manager-plugin * {-gtk-icon-transform: scale(.55);}
+
+wnck-pager{
+    background-color: rgba(0,0,0,0); }
+wnck-pager:selected {
+    background-color: rgba(0,0,0,0.6); }
+wnck-pager:hover {
+    background-color: gray; }
